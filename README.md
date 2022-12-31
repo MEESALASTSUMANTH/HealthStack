@@ -1,4 +1,4 @@
-# HealthStack-master
+# HealthStack
 
 Install dependencies
 
